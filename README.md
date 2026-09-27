@@ -4,6 +4,8 @@ A hotkey app switcher for Windows 11, in one C file. Bind an F-key to a
 program from the tray menu, and that key jumps to the program's window or
 launches it.
 
+![The wiz tray menu, with F1 to F5 bound to Chrome, Explorer, VS Code, Discord and Spotify](screenshot.png)
+
 ## Build
 
 Requires CMake 3.20+, Ninja, and a C compiler. The included preset uses clang
